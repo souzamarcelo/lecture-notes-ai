@@ -12,6 +12,8 @@ Todo o material está organizado [nesta apostila](./tex-notas-aula/notas-aula-in
 + Russel e Norvig (2010): *Artificial Intelligence: A Modern Approach*.
 + Zäpfel, Braune e Bögl (2010): *Metaheuristic Search Concepts: A Tutorial with Applications to Production and Logistics*.
 
+Exemplos, aplicações e materiais complementares serão futuramente incluídos aqui.
+
 ***
 
 ## Citação
