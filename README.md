@@ -22,7 +22,7 @@ Aqui estão instruções de citação, caso você utilize esse material de algum
 
 Marcelo de Souza (2020), Notas de Aula: Inteligência Computacional. Online: https://github.com/souzamarcelo/lecture-notes-ai. Creative Commons BY-NC-ND 4.0.
 
-```
+```bibtex
 @Misc{Souza2018lnic,
     title =        {Notas de Aula: Inteligência Computational},
     author =       {Marcelo de Souza}, 
