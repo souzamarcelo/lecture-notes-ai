@@ -4,7 +4,7 @@
 
 Essas são as notas de aula usadas na disciplina de Inteligência Computacional, do curso de [Bacharelado em Engenharia de Software](https://www.udesc.br/ceavi/engenhariadesoftware) da [Universidade do Estado de Santa Catarina](https://www.udesc.br/ceavi). Esta obra está disponível sob uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
-Todo o material está organizado [nesta apostila](./notas-aula/notas-aula-ia.pdf), cujos arquivos podem ser acessados no diretório [notas-aula](./notas-aula). Cada capítulo apresenta uma ou mais leituras obrigatórias, que indicam os materiais usados para produzir o capítulo. Também são refernciadas leituras sugeridas, contendo materiais complementares aos conceitos estudados em cada capítulo. As principais obras usadas na preparação das notas de aula foram:
+Todo o material está organizado [nesta apostila](./notas-aula-ia.pdf). Cada capítulo apresenta uma ou mais leituras obrigatórias, que indicam os materiais usados para produzir o capítulo. Também são refernciadas leituras sugeridas, contendo materiais complementares aos conceitos estudados em cada capítulo. As principais obras usadas na preparação das notas de aula foram:
 
 + Faceli, Lorena, Gama e Carvalho (2011): *Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina*.
 + Mitchell (1997): *Machine Learning*.
