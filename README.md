@@ -28,6 +28,6 @@ Marcelo de Souza (2020), Notas de Aula: Inteligência Computacional. Online: htt
     author =       {Marcelo de Souza}, 
     howPublished = {\url{https://github.com/souzamarcelo/lecture-notes-ai}}, 
     year =         {2018},
-    note =         {Creative Commons BY-NC-ND 4.0.}
+    note =         {Creative Commons BY-NC-ND 4.0}
 }
 ```
